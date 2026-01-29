@@ -1,4 +1,8 @@
 This is my NEW REPOSITORY.
 changed!
+<<<<<<< HEAD
 
 edit
+
+This line is edited in FEATURE branch.
+resolved.
